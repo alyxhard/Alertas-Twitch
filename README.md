@@ -14,8 +14,11 @@ Este repositório contém exemplos de implementação de alertas personalizados 
   4. [Preview](#preview)
   5. [Background personalizado](#background-personalizado)
   6. [Ícone personalizado](#ícone-personalizado)
-  7. [Code Review](#code-review)
-  8. [Import Font](#import-font)
+  7. [Code Review Container](#code-review-container)
+  8. [Code Review Username](#code-review-username)
+  9. [Code Review Bits](#code-review-bits)
+  10. [Import Font](#import-font)
+
 - [Licença](#licença)
 
 ## Introdução
@@ -58,13 +61,17 @@ Iremos realizar as seguintes personalizações:
 ![Texto Alternativo](/assets/imagemReadme/iconbits02.png)
 ![Texto Alternativo](/assets/imagemReadme/iconbits03.png)
 
-7. ### Code Review
-![Texto Alternativo](/assets/imagemReadme/codereview.png)
+7. ### Code Review Container
+![Texto Alternativo](/assets/imagemReadme/container.png)
 
-8. ### Import Font
+8. ### Code Review Username
+![Texto Alternativo](/assets/imagemReadme/username.png)
+
+9. ### Code Review Bits
+![Texto Alternativo](/assets/imagemReadme/amount.png)
+
+9. ### Import Font
 ![Texto Alternativo](/assets/imagemReadme/font.png)
 
 ## Licença
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
