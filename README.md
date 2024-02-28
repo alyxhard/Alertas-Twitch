@@ -1,7 +1,7 @@
 ![Texto Alternativo](/assets/imagemReadme/start.png)
 
 # Alertas Personalizados Twitch Exemplos
-Este repositório contém exemplos de implementação de alertas personalizados para uso em transmissões ao vivo na plataforma Twitch. Utilizando a plataforma nativa da Twitch, que contém recursos interessantes como a manipulação de elementos HTML e CSS, possibilitando uma personalizações mais avançadas.
+Este guia apresenta exemplos de implementação de alertas personalizados para serem utilizados em transmissões ao vivo na plataforma Twitch. A criação desses alertas será realizada na própria plataforma nativa da Twitch, que dispõe de recursos notáveis, como a capacidade de manipular elementos HTML e CSS. Isso possibilita a realização de personalizações mais avançadas e aprimoradas.
 
 ![Texto Alternativo](/assets/imagemReadme/fly.png)
 
